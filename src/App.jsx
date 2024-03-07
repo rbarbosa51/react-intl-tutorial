@@ -16,8 +16,8 @@ function App() {
   };
   return (
     <IntlProvider locale="en" messages={msgs}>
-      <div className="h-screen bg-gradient-to-b from-orange-50 to-rose-300 text-rose-800/60 my-4">
-        <h1 className="text-center font-inter text-5xl font-extrabold text-rose-300">
+      <div className="min-h-screen bg-gradient-to-b from-orange-50 to-rose-300 text-rose-800/60">
+        <h1 className="pt-4 text-center font-inter text-5xl font-extrabold text-rose-300">
           <FormattedMessage id="appTitle" defaultMessage={"Hello World"} />
         </h1>
         <div className="mt-4 flex flex-col items-center gap-8">
