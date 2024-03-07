@@ -2,8 +2,8 @@ import React from "react";
 
 function App() {
   return (
-    <div className="my-4 h-screen bg-gradient-to-b from-orange-50 to-rose-300 text-rose-800/60">
-      <h1 className="text-center font-inter text-5xl font-extrabold text-rose-300">
+    <div className="min-h-screen bg-gradient-to-b from-orange-50 to-rose-300 text-rose-800/60">
+      <h1 className="pt-4 text-center font-inter text-5xl font-extrabold text-rose-300">
         Sample Title
       </h1>
       <div className="mt-4 flex flex-col items-center gap-8">
