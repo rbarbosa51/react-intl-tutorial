@@ -3,3 +3,7 @@
 These are the starter and finished files for the tutorial
 
 The main branch provides the starter code and the finished branch is the finished code.
+
+![English](meta/English.png)
+<br />
+![Spanish](meta/Spanish.png)
